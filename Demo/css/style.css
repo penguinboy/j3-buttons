@@ -1,0 +1,30 @@
+body {
+	font-family: helvetica, arial, clean, sans-serif;
+	color: #232323;
+}
+
+#content {
+	width: 1000px;
+	margin: 50px auto 0 auto;
+}
+
+h1 {
+	font-size: 5em;
+	color: #444;
+	text-shadow: 2px 2px 3px #CCC;
+}
+
+h3 {
+	color: #999;
+}
+
+span.code {
+	display: block;
+	color: #333;
+	font-family: monospace;
+	margin-bottom: 3px;
+}
+
+div.demo-button {
+	margin-top: 15px;
+}
